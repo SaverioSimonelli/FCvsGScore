@@ -1,7 +1,7 @@
 FCvsGScore Created by Saverio Simonelli MIT license 2020
 
 FCvsGScore Python library consists of three main functions that help to merge the information provided from an experiment with the Quad 
-(https://github.com/SaverioSimonelli/Quad) output and to graphically represent two variables y-variable, derived from the experiment, and G-Quadruplexes score.
+(https://github.com/SaverioSimonelli/Quad) output and to graphically represent two variables: y-variable, derived from the experiment, and G-Quadruplexes score.
 The three functions are:
 Complete Information, Point Graph, Color Graph.
 
